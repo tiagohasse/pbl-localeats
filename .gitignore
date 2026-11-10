@@ -1,0 +1,20 @@
+# Ambientes Virtuais
+.venv/
+venv/
+ENV/
+env/
+
+# Byte-compiled / cache do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Pytest e ferramentas de teste
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Playwright
+test-results/
+playwright-report/
+blob-report/
